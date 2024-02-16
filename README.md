@@ -1,3 +1,53 @@
+# Walmart Dynamic Image Search and Pop Basket
+
+This project is a Walmart clone with added functionality for dynamic image search and a pop-up basket feature. It is built using Next.js, a React framework for server-rendered React applications.
+
+## Features
+
+- **Dynamic Image Search**: Users can search for products using images instead of text. The system utilizes image recognition technology to match uploaded images with products in the database.
+- **Pop-up Basket**: Users can add items to their shopping basket, and a pop-up basket will display the items added in real-time. Users can manage their shopping cart without leaving the main page.
+- **Next.js**: The project leverages Next.js for server-side rendering, making the application faster and more SEO-friendly.
+
+
+## Technologies Used
+
+- React.js
+- Next.js
+- HTML/CSS
+- ShadCN
+- Parallel Routes 
+- Oxylabs 
+- Shadcn 
+- Zustand
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your local machine
+- API keys for the image recognition service (if applicable)
+
+### Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the project directory: `cd your-repo`
+3. Install dependencies: `npm install`
+4. Set up environment variables (if necessary)
+5. Start the development server: `npm run dev`
+
+### Usage
+
+- Navigate to `http://localhost:3000` in your web browser to access the application.
+- Use the dynamic image search feature to search for products using images.
+- Add items to the basket and observe the pop-up basket feature in action.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
+
+---
+
+Feel free to customize this template with more specific details about your project, such as setup instructions, API usage, deployment instructions, and any other relevant information.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
